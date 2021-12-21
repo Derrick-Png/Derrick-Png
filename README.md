@@ -1,8 +1,3 @@
-Learning
-- Angular
-- React
-- Assembly
-
 Languages
 - Python
 - C++
